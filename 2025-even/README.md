@@ -2,4 +2,5 @@
 
 ## 📚 Project List
 
-1. *(No entries yet — add yours by submitting a pull request!)*
+Lighten Up! 
+Stefani Gifta Ganda, Edeline Kenni, Dania K. Raharjo, Esther Regina, Ryu Nesta N. — Low-Light Image Enhancement using Zero-DCE
