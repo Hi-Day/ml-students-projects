@@ -2,4 +2,5 @@
 
 ## 📚 Project List
 
-1. *(No entries yet — add yours by submitting a pull request!)*
+1. **[Research Assistant - AI-Powered Academic Research Tool](https://github.com/Fane-Nathan/Research-Assistant)**  
+   *Group 1 — Hybrid Search with RAG for Academic Research*
