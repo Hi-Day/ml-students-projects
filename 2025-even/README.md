@@ -2,4 +2,9 @@
 
 ## 📚 Project List
 
-1. [Use Hyperspectral Satellite Images to Predict Carbon Soil Levels](https://github.com/KensonWijaya/Group-5-ML-Project/tree/main)
+
+1. **[Local Social Media Recommender](https://github.com/kengomatsuo/local-recommender)**  
+   *Bryan Archie, Jason Luman, Jonathan Alyson Salim, Kenneth Johannes Fang — A Streamlit-based local recommender system that uses user interactions and posts' properties to analyze user preferences (extension branch: and recommends posts influenced by them).*
+
+2. [Use Hyperspectral Satellite Images to Predict Carbon Soil Levels](https://github.com/KensonWijaya/Group-5-ML-Project/tree/main)
+
