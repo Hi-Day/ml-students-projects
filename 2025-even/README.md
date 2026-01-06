@@ -2,4 +2,4 @@
 
 ## 📚 Project List
 
-1. *(No entries yet — add yours by submitting a pull request!)*
+1. [Use Hyperspectral Satellite Images to Predict Carbon Soil Levels](https://github.com/KensonWijaya/Group-5-ML-Project/tree/main)
